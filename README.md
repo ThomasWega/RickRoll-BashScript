@@ -1,15 +1,18 @@
-# RickRoll-BashScript
+# RickRoll-Script
 
-There are 3 types of scripts.
+**This rickroll scripts does the following every pc startup:**
 
-1. remove-rickroll.bat
-   > Removes the rickroll (sometimes needs admin perms)
-
-2. rickroll-EASY.bat
-   > The script will show how to remove the rickroll for 5 seconds on every start up. The file is also visible.
-
-3. rickroll-BITCH.bat
-   > The script won't show anything on every start up. The file is hidden
+1. Changes the background (to Rickroll_scripts/background.bmp)
+2. Opens a youtube rickroll video in edge
+3. Does a fake bluescreen when the video ends
 
 
-Enjoy! ;)
+**How to install:**
+
+1. Download the zip
+2. Extract it
+3. Start rickroll.bat
+4. You can delete all the files now
+
+------------
+###### enjoy! ;)
