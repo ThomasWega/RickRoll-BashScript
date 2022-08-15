@@ -14,5 +14,7 @@
 3. Start rickroll.bat
 4. You can delete all the files now
 
+PS: Antivirus might block this script 🤷
+
 ------------
 ###### enjoy! ;)
